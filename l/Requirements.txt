@@ -1,0 +1,10 @@
+pysimplegui
+pyttsx3
+SpeechRecognition
+serial
+pyautogui
+math
+turtle
+opencv-python
+mediapipe
+webbrowser

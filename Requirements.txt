@@ -1,0 +1,12 @@
+pysimplegui
+pyttsx3
+SpeechRecognition
+serial
+pyautogui
+turtle
+opencv-python
+mediapipe
+webbrowser
+pywhatkit
+googlesearch-python
+wikipedia
